@@ -1,2 +1,1 @@
-# fh-cs2a
-2020
+# Object-Oriented Programming Methodologies in C++
